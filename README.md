@@ -1,12 +1,7 @@
 
-I'm an Backend Engineer
-
 <img src="https://komarev.com/ghpvc/?username=danielveloso09&label=Profile%20views&color=012B36&" alt="Profile view count"/>
 
-My main focus: 
-- Ruby
-- Testing
-- Architecture
+I'm an Backend Engineer and my main focus is on Ruby, testing and architecture
 
 # Github stats
 
