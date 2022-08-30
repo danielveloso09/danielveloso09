@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Veloso</h1>
 <h3 align="center">A Backend Engineer from Porto (Portugal) and my main focus is on Ruby, testing and architecture</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielveloso09&label=Profile%20views&color=0e75b6&style=flat" alt="danielveloso09" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app//api/top-langs/?username=danielveloso09&layout=compact&theme=solarized-dark&hide=html,css,coffeescript&hide_border=true" alt="danielveloso09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielveloso09&theme=solarized-dark&hide_border=true&count_private=true" alt="danielveloso09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielveloso09&theme=solarized-dark&hide_border=true" alt="danielveloso09" /></p>
-
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=danielveloso09&theme=elegant&hide_border=true&bg_color=012B36&line=1E7CB9&point=859801" /></p>
-
 ___
 
 <h3 align="left">Languages and Tools:</h3>
